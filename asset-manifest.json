@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-formation-deploy/static/css/main.50b0de4d.css",
+    "main.js": "/react-formation-deploy/static/js/main.b8cd2b91.js",
+    "index.html": "/react-formation-deploy/index.html",
+    "main.50b0de4d.css.map": "/react-formation-deploy/static/css/main.50b0de4d.css.map",
+    "main.b8cd2b91.js.map": "/react-formation-deploy/static/js/main.b8cd2b91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50b0de4d.css",
+    "static/js/main.b8cd2b91.js"
+  ]
+}
